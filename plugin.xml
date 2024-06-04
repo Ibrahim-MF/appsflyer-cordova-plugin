@@ -91,7 +91,7 @@
             <config>
             </config>
             <pods use-frameworks="true">
-               <pod name="AppsFlyerFramework" spec="6.14.3"/>
+               <pod name="AppsFlyerFramework" tag="6.14.3" git="https://github.com/AppsFlyerSDK/AppsFlyerFramework.git"/>
             </pods>
         </podspec>
     </platform>
